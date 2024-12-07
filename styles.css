@@ -38,6 +38,18 @@ header p {
     background: #cc5200;
 }
 
+.qr-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.qr-code {
+    display: block;
+    margin: 10px auto;
+    width: 150px;
+    height: 150px;
+}
+
 #features {
     padding: 20px;
     background: rgba(255, 255, 255, 0.8); /* Fondo blanco semi-transparente */
